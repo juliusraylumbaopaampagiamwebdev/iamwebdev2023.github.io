@@ -256,6 +256,7 @@ section{
 	background-attachment: fixed;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 18px;
+	color:black;
 }
 
 .skills .title{
@@ -371,6 +372,7 @@ section{
 	background-attachment: fixed;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 18px;
+	color:black;
 }
 
 .contact .title{
@@ -400,6 +402,7 @@ section{
 .contact .contact-content .left p{
 	font-size: 18px;
 	text-align: justify;
+	color:black;
 }
 
 .contact .contact-content .row{
@@ -425,6 +428,7 @@ section{
 
 .contact .contact-content .info .sub-title{
 	font-weight: 600;
+	color:black;
 }
 
 .contact .right form .fields{
